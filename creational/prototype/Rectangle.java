@@ -1,4 +1,4 @@
-package creational.prototype;
+package prototype;
 
 public class Rectangle extends Shape{
     public int width = 0;
