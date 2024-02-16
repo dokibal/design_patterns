@@ -1,3 +1,4 @@
+package proxy;
 import proxy.downloader.YouTubeDownloader;
 import proxy.proxy.YouTubeCacheProxy;
 import proxy.some_cool_media_library.ThirdPartyYouTubeClass;
