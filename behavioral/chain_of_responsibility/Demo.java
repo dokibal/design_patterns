@@ -1,4 +1,4 @@
-package behavioral;
+package behavioral.chain_of_responsibility;
 
 import java.io.BufferedReader;
 import java.io.IOException;
